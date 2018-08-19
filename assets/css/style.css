@@ -1,0 +1,17 @@
+* {
+    /* outline:1px dotted black; */
+    box-sizing: border-box;
+}
+
+body {
+  margin-left: 10px;
+}
+header {
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px 0px 10px 0px;
+}
+
+p {
+  padding: 10px 0px 10px 0px;
+}
